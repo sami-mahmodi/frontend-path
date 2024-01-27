@@ -14,6 +14,10 @@ body{
 .container{
     display: flex;
     justify-content:center;
+    background-color: rgb(16, 16, 20);
+    height: 100%;
+    width: 100%;
+    align-items: center;
 }
 .main-div{
     height: 375px;
